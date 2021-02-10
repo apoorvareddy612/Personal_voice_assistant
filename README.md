@@ -9,5 +9,13 @@ I have created my own personal assistant like Siri,Well I named it siri XD
    * pyttsx3('pip install pyttsx3')
    * pywhatkit('pip install pywhatkit')
    
- 'if'
+ ## Extra Important Information
+ 1. When you want to tell siri that you want to watch a youtube video then say:
+    * 'play {name of the video}'
+ 2. when you want to tell siri that you want to send whatsapp message to anyone then say :
+    * 'send {message}'
+ 3. when you want to google search anything then say:
+    * 'search {name of the topic you are searching for}'
+ 4. when you want to find about something like a short summary about it then say:
+    * 'find about {topic}'
 
