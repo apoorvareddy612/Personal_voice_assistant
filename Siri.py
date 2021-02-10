@@ -36,7 +36,8 @@ def run_siri():
     if 'send' in command:
         talk('sending')
         print('sending...')
-        kit.sendwhatmsg("+918810519744",command[4:],23,20,1)
+        #sorry this number is random you can change the mobile number to whom ever you want to send the message!!
+        kit.sendwhatmsg("+919452380123",command[4:],23,20,1)
 
     if 'search' in command:
         talk('searching')
